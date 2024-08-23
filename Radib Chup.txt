@@ -1,5 +1,0 @@
-Adding text in test branch in remote repo
-habijabi update 121456789
-habijabi update 121456testConflict
-Adding text in test branch in remote  repo 3
-Adding text  in test branch in remote  repo 4
